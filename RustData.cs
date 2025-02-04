@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using Carbon;
 using API.Assembly;
 
-    namespace Carbon.Extension.RustData{
+    namespace CarbonExtensions {
 
     [Hotloadable]
-	public static class RustData : ICarbonExtension
+	public class RustData : ICarbonExtension
 	{
 
         public void Awake(EventArgs args)
