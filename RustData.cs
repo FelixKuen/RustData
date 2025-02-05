@@ -5,7 +5,7 @@ using API.Assembly;
 
     namespace Carbon.Extensions {
 
-    [Hotloadable]
+    
 	public class RustData : ICarbonExtension
 	{
 
