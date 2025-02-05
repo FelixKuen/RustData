@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Carbon;
 using API.Assembly;
 
-    namespace CarbonExtensions {
+    namespace Carbon.Extensions {
 
     [Hotloadable]
 	public class RustData : ICarbonExtension
